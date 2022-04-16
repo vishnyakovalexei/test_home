@@ -1,3 +1,4 @@
-a=10
-b=20
-print (a+b)
+print("What is Your name?")
+name = input()
+print("Hi," + name)
+
